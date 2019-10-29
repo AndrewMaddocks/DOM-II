@@ -316,6 +316,19 @@ img {
     flex-wrap: wrap;
   }
 }
+.home .content-pick #draggable {
+  width: 200px;
+  height: 20px;
+  text-align: center;
+  background: white;
+}
+.home .content-pick .dropzone {
+  width: 200px;
+  height: 20px;
+  background: blueviolet;
+  margin-bottom: 10px;
+  padding: 10px;
+}
 .home .content-pick .destination {
   width: 30%;
   margin-bottom: 30px;
